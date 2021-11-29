@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tom-costa/REACT_Managing-a-Component-Tree-Practice/blob/main/react_component-tree.png" alt="Component Tree"/>
+  <img src="https://github.com/tom-costa/REACT_Managing-a-Component-Tree-Practice/blob/main/component-tree.png" alt="Component Tree"/>
 </p>
 
 # Simple ToDo React app from Angela Yu's course.
